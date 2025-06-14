@@ -115,7 +115,7 @@ export const SkillsInfo = [
         "A React-based web Portfolio.",
       image: movierecLogo,
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      github: "https://github.com/rohitbhardwaj100/My_Portfolio",
+      webapp: "https://myportfolio1179.netlify.app/",
     },
   ];  
